@@ -1,16 +1,4 @@
-# task
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Delisol
+This is a flutter project made for the completion of intern task in kaskpertech company.
+Done coding UI and integerated API for login,register,login server notify etc.
+Link for apk - [Download](https://drive.google.com/file/d/1-NyV0zVTO25-C-rKOBZBYFtzQIaLzdI7/view?usp=sharing)
